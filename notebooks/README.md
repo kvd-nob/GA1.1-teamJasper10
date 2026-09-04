@@ -1,0 +1,1 @@
+I added the function add.ipynb. The function will sum the numbers definied in the first cell and will check if the amount of numbers you want to add (a) is the amount as definied in the numbers array. 
