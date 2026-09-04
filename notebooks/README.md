@@ -1,3 +1,5 @@
+Our code subtracts one number from another.
+
 Multiply: 
 Input two variables to get the multiplication
 Only input two variables not more, not less
