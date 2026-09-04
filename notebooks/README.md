@@ -1,0 +1,1 @@
+Our code subtracts one number from another.
