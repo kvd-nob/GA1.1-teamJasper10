@@ -9,4 +9,7 @@ I added the function add.ipynb. The function will sum the numbers definied in th
 
 Square:
 The square function uses the multiply function and squares the given value. 
+
 Input 1 variable, it is not possible to use more variables.  
+Distance to zero:
+The function calculates the distance to zero using the subtract function.
